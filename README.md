@@ -7,6 +7,7 @@ Steps to deploy the application:
 2) Go to the project folder: right-click on it and select "Open in Terminal"
 
 Result: PS C:\my_project
+
 3) Then, in the terminal, run the following command to activate the virtual environment:
 .\.venv\Scripts\Activate.ps1
 
