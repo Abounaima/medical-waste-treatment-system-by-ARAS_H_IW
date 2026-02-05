@@ -8,9 +8,9 @@ Steps to deploy the application:
 
 Result: PS C:\my_project
 
-3) Then, in the terminal, run the following command to activate the virtual environment:
-.\.venv\Scripts\Activate.ps1
-
+3) Then, in the terminal, run the following commands to activate the virtual environment:
+     python -m venv .venv
+    .\.venv\Scripts\Activate.ps1
 You should see (.venv) at the beginning of the line.
 
 4) Install/update dependencies (once, or after modification)
