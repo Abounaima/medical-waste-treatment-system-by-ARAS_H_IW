@@ -1,5 +1,5 @@
 # medical-waste-treatment-system-by-ARAS_H_IW
-The ARAS_H_IW medical waste treatment system is a Python web application that integrates the entire pipeline of the ARAS-H-IW approach (based on the ARAS method: Additive Ratio Assessment which is extended to a hesitant fuzzy environment and integrating an inverse inference mechanism of the weights of the IW criteria).
+The ARAS-H-IW decision support system for medical waste management is a web application developed in Python that integrates the entire proposed methodological pipeline. It is based on the Additive Ratio Assessment (ARAS) method, extended to a hesitant fuzzy environment to explicitly represent expert hesitation and data uncertainty, while incorporating an inverse weighting inference mechanism to estimate criterion weights based on decision preferences rather than imposing them a priori. The tool aims to support optimal and rational selection of medical waste treatment technologies in Morocco, with a focus on the Fes-Meknes region, where the decision simultaneously depends on economic, environmental (emissions and energy), health, regulatory (compliance/traceability), and socio-organizational (HSE risks, acceptability, flexibility) dimensions.
 ====================================================
 Steps to deploy the application:
 
