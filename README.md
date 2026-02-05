@@ -9,14 +9,14 @@ Steps to deploy the application:
 Result: PS C:\my_project
 
 3) Then, in the terminal, run the following commands to activate the virtual environment:
-     python -m venv .venv
-    .\.venv\Scripts\Activate.ps1
+     i) python -m venv .venv
+   ii) .\.venv\Scripts\Activate.ps1
 You should see (.venv) at the beginning of the line.
 
 4) Install/update dependencies (once, or after modification)
-`python -m pip install --upgrade pip`
-`python -m pip install -r requirements.txt`
-`python -m pip install -U python-docx`
+i) `python -m pip install --upgrade pip`
+ii) `python -m pip install -r requirements.txt`
+iii) `python -m pip install -U python-docx`
 
 5) Launch the Streamlit application
 `python -m streamlit run app.py`
